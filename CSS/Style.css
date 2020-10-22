@@ -3,7 +3,9 @@
        position: fixed;
        top: 0;
        width: 100%;
-       display: inline-block;}
+       display: inline-block;
+       max-width:100%;
+         height: auto;}
 .Nome{font-size:200%;}
 div.top{vertical-align: top;
         display: inline-block;
