@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Página de criação</title>
+        <link rel="stylesheet" href="CSS/Style.css">
+    </head>
+    <body> 
+        <div class=pgcri>
+            <header id=Home>
+                <div id=barra>
+                <div class=top>
+                    <a href="Coruja.html">
+                    <img src="img/Log.png" title="Owl Creator" width="150px" height="115px"> 
+                    </a>
+                </div>
+                <div class=top id=nav>
+                   <p class=Nome> Owl Creator</p>
+                   <a href="Coruja.html">Home</a>
+                   <a href="Coruja.html#temas">Temas</a>
+                   <a href="Favoritos.html">Favoritos</a>
+                   <a href="Minhascr.html">Minhas criações</a>
+                </div>
+                <div class=top>
+                   <ul>
+                       <form><input type="text" name="pesquisar" placeholder="pesquisar"></form>
+                   </ul>
+                </div>
+               </div>
+            </header>
+        <fieldset class=f> 
+            <legend>Criar</legend>
+            <input type="image" src="img/white.jpg" width="480" height="480">
+            <p class= titulo>Titulo:<input type="text" placeholder="Titulo" minlength="1" maxlength="50"></p>
+            <p class= des>Descrição:<textarea id="desc" placeholder="Descrição" name="subject" style="height:200px"></textarea></p>
+            <input type="submit" value="enviar" formaction="envio.php" class=env height="150%" width="150%">
+        </fieldset>
+        </div>
+    </body>
+</html>

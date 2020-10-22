@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>Owl Creator</name>
+
+  <description>
+      Owl Creator é um app criado para publicar e buscar por ideias, inspirações e criações.
+  </description>
+
+  <author href="https://build.phonegap.com" email="joaopedrofujita6@gmail.com">
+      João Pedro Fujita
+  </author>
+        
+  <icon src="img/Log.png"/>
+  <gap:splash src="tela de carregamento.png"/>
+</widget>
