@@ -1,4 +1,4 @@
-@media screen and (max-width: 300px) {
+
 #barra{background-color: slategray;
        overflow: hidden;
        position: fixed;
@@ -112,4 +112,3 @@ p.des{vertical-align: top;}
 .B4:checked{background-color: #f5cb42;}
 #S{max-width: 50px;
    height: auto;}
-}
