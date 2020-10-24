@@ -28,7 +28,7 @@ body{font-family: arial, helvetica, sans-serif;
      font-weight: bold;
      max-width:100%;
      height: auto;}
-.B{margin-top: 15%;}
+.B{margin-top: 15vw;}
 .B{background-color:steelblue;}
 .B:hover{background-color: royalblue;}
 html{background-color:#010614;}
